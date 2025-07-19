@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/kkfunda.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		JS Tutorials, 
+		JS AWS Tutorials,  
 		LAM, Guntur,
 		AP, 
 		+91-8008947515
