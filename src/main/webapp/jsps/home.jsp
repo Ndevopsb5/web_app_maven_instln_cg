@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
 		JS Tutorials, 
 		LAM, Guntur,
-		AP,
+		AP, 
 		+91-8008947515
 		naveenabandaru1@gmail.com
 		<br>
